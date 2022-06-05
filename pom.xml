@@ -24,14 +24,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>trace-release</id>
       <name>trace-release</name>
-      <url>http://54.241.201.104:8081/repository/trace-release/</url>
+      <url>http://172.31.11.170:8081/repository/trace-release/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>trace-snapshot</id>
       <name>trace-snapshot</name>
-      <url>http://54.241.201.104:8081/repository/trace-snapshot/</url>
+      <url>http://172.31.11.170:8081/repository/trace-snapshot/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
