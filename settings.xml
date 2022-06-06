@@ -1,0 +1,15 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0 https://maven.apache.org/xsd/settings-1.0.0.xsd">
+  <servers>
+    <server>
+      <id>trace-snapshot</id>
+      <username>traceuser</username>
+      <password>traceuser</password>
+    </server>
+    <server>
+      <id>trace-release</id>
+      <username>traceuser</username>
+      <password>traceuser</password>
+    </server>
+  </servers>
+</settings>
